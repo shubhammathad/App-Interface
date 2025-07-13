@@ -1,4 +1,4 @@
-# EdTech Platform - UI Designs
+# EdTech Platform - UI Design
 -Welcome to the official EdTech Platform UI Design Repository. This repository contains the complete UI/UX designs for an educational technology platform, created using Figma.
 ---
 Repository Structure
