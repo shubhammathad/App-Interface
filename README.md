@@ -5,8 +5,8 @@ Repository Structure
 /APP SCREENS.fig → Original Figma design file containing all UI screens
 
 /assets/ → (Optional) Exported images or screenshots of the UI designs
-
-README.md → Project information and usage instructions
+---
+Project information and usage instructions
 ---
 Preview
 The UI designs can be previewed by importing the .fig file into Figma.
